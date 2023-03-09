@@ -1,7 +1,5 @@
 #include "raylib.h"
 
-#define MAX_QUEUE_SIZE 25
-
 struct User{
     int x;
     int y;
