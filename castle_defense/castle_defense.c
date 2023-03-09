@@ -19,7 +19,7 @@ int main(void) {
     const int ScreenWidth = 1920;
     const int ScreenHeight = 1080;
     
-    InitWindow(ScreenWidth, ScreenHeight, "spider dance");
+    InitWindow(ScreenWidth, ScreenHeight, "castle defense");
     
     SetTargetFPS(60);
     
